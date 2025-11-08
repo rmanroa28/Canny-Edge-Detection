@@ -1,2 +1,2 @@
 # Canny-Edge-Detection
-Custom Canny Edge Detection in C++ (without using OpenCV).
+Canny Edge Detection in C++ (without using OpenCV).
